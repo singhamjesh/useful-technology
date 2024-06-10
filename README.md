@@ -1,6 +1,6 @@
-# Usefull Technology
+## Essential knowledge for tech developers to wield.
 
-### Useful Technology
+### Technologies
 1. JEST (Test backend and frontend)
 2. Playwright (Test frontend end-to-end/unit testing)
 3. Cypress.io (Test frontend end-to-end user)
